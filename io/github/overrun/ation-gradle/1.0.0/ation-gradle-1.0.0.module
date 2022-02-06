@@ -27,11 +27,11 @@
         {
           "name": "ation-gradle-1.0.0.jar",
           "url": "ation-gradle-1.0.0.jar",
-          "size": 18730,
-          "sha512": "5d693b970d97183796f5d48b54451b8753b822195ebcfb82096258f141abedf989675ec1af101fd45371890788193a77da37cf2f48d896d85f8087840a992a0f",
-          "sha256": "99253a1053286c73a4e07cfbc6d0188f0eb4717c1ab41c9c9a1fbe6ad8570833",
-          "sha1": "aa246d041b89e3c1fb882250298dac4f0a43a1e6",
-          "md5": "0f7a129acd72dbb33d9b7b90c0dfd12e"
+          "size": 40897,
+          "sha512": "22c19877d867a6e4bf237795abea4b48b1a0dcb0263022967ddaf6af967f4774ed80aca3c77258e325c7825752de056e2aa5fb3de74ccfa9618531bcc504422e",
+          "sha256": "ab355a1872cd68185a10680dcd41e4e13932efc61e0d60d6f14b141930f55224",
+          "sha1": "4110918eae01db19a5dd9181235553aa433738c7",
+          "md5": "5ee52d932b1f52a2820d5be306e48012"
         }
       ]
     },
@@ -58,17 +58,38 @@
           "version": {
             "requires": "2.8.9"
           }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-commons",
+          "version": {
+            "requires": "9.2"
+          }
+        },
+        {
+          "group": "org.ow2.asm",
+          "module": "asm-tree",
+          "version": {
+            "requires": "9.2"
+          }
         }
       ],
       "files": [
         {
           "name": "ation-gradle-1.0.0.jar",
           "url": "ation-gradle-1.0.0.jar",
-          "size": 18730,
-          "sha512": "5d693b970d97183796f5d48b54451b8753b822195ebcfb82096258f141abedf989675ec1af101fd45371890788193a77da37cf2f48d896d85f8087840a992a0f",
-          "sha256": "99253a1053286c73a4e07cfbc6d0188f0eb4717c1ab41c9c9a1fbe6ad8570833",
-          "sha1": "aa246d041b89e3c1fb882250298dac4f0a43a1e6",
-          "md5": "0f7a129acd72dbb33d9b7b90c0dfd12e"
+          "size": 40897,
+          "sha512": "22c19877d867a6e4bf237795abea4b48b1a0dcb0263022967ddaf6af967f4774ed80aca3c77258e325c7825752de056e2aa5fb3de74ccfa9618531bcc504422e",
+          "sha256": "ab355a1872cd68185a10680dcd41e4e13932efc61e0d60d6f14b141930f55224",
+          "sha1": "4110918eae01db19a5dd9181235553aa433738c7",
+          "md5": "5ee52d932b1f52a2820d5be306e48012"
         }
       ]
     }
