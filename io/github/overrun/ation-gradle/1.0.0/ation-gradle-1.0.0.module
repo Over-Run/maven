@@ -27,11 +27,11 @@
         {
           "name": "ation-gradle-1.0.0.jar",
           "url": "ation-gradle-1.0.0.jar",
-          "size": 15259,
-          "sha512": "564c3eac2715817ab9d3e9fa7bea44ff3cb2b3169328bbfe8c63cc2393b33bf6eb562a0e3bff008b73fb5abcf87c12ada0b380a86ba02607c25b0a3490aaf636",
-          "sha256": "f7c183a01c4c86869b0d303717eadd2ff190dcab3e25b6654f7a4dd208ea7bd5",
-          "sha1": "ed5c3d71686eac65426e0c776241c197f7c15436",
-          "md5": "8271f799c79419b48e9fdfec02cfcad3"
+          "size": 18730,
+          "sha512": "5d693b970d97183796f5d48b54451b8753b822195ebcfb82096258f141abedf989675ec1af101fd45371890788193a77da37cf2f48d896d85f8087840a992a0f",
+          "sha256": "99253a1053286c73a4e07cfbc6d0188f0eb4717c1ab41c9c9a1fbe6ad8570833",
+          "sha1": "aa246d041b89e3c1fb882250298dac4f0a43a1e6",
+          "md5": "0f7a129acd72dbb33d9b7b90c0dfd12e"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "ation-gradle-1.0.0.jar",
           "url": "ation-gradle-1.0.0.jar",
-          "size": 15259,
-          "sha512": "564c3eac2715817ab9d3e9fa7bea44ff3cb2b3169328bbfe8c63cc2393b33bf6eb562a0e3bff008b73fb5abcf87c12ada0b380a86ba02607c25b0a3490aaf636",
-          "sha256": "f7c183a01c4c86869b0d303717eadd2ff190dcab3e25b6654f7a4dd208ea7bd5",
-          "sha1": "ed5c3d71686eac65426e0c776241c197f7c15436",
-          "md5": "8271f799c79419b48e9fdfec02cfcad3"
+          "size": 18730,
+          "sha512": "5d693b970d97183796f5d48b54451b8753b822195ebcfb82096258f141abedf989675ec1af101fd45371890788193a77da37cf2f48d896d85f8087840a992a0f",
+          "sha256": "99253a1053286c73a4e07cfbc6d0188f0eb4717c1ab41c9c9a1fbe6ad8570833",
+          "sha1": "aa246d041b89e3c1fb882250298dac4f0a43a1e6",
+          "md5": "0f7a129acd72dbb33d9b7b90c0dfd12e"
         }
       ]
     }
