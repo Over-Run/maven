@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "io.github.overrun",
-    "module": "ation-gradle",
+    "module": "AtionGradle",
     "version": "1.0.0",
     "attributes": {
       "org.gradle.status": "release"
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "ation-gradle-1.0.0.jar",
-          "url": "ation-gradle-1.0.0.jar",
-          "size": 40897,
-          "sha512": "22c19877d867a6e4bf237795abea4b48b1a0dcb0263022967ddaf6af967f4774ed80aca3c77258e325c7825752de056e2aa5fb3de74ccfa9618531bcc504422e",
-          "sha256": "ab355a1872cd68185a10680dcd41e4e13932efc61e0d60d6f14b141930f55224",
-          "sha1": "4110918eae01db19a5dd9181235553aa433738c7",
-          "md5": "5ee52d932b1f52a2820d5be306e48012"
+          "name": "AtionGradle-1.0.0.jar",
+          "url": "AtionGradle-1.0.0.jar",
+          "size": 39531,
+          "sha512": "8c330109ea644774df8464f6e06cfc9cc7065ee4d330b7b83857d2ca8143d546468060288c14b5dedb1ab88976222ec1811c3c9a48d1d51705e2a5a08eeee73a",
+          "sha256": "ad84465921f37f7a82caba5b70a6d61ff5d3c2cc2af6339409ed1b95e3f2a7a1",
+          "sha1": "dacbaae91335fd680f4cd02492106ef602e164c2",
+          "md5": "1089b36ec8aee2946070fb42b84ea05c"
         }
       ]
     },
@@ -83,13 +83,13 @@
       ],
       "files": [
         {
-          "name": "ation-gradle-1.0.0.jar",
-          "url": "ation-gradle-1.0.0.jar",
-          "size": 40897,
-          "sha512": "22c19877d867a6e4bf237795abea4b48b1a0dcb0263022967ddaf6af967f4774ed80aca3c77258e325c7825752de056e2aa5fb3de74ccfa9618531bcc504422e",
-          "sha256": "ab355a1872cd68185a10680dcd41e4e13932efc61e0d60d6f14b141930f55224",
-          "sha1": "4110918eae01db19a5dd9181235553aa433738c7",
-          "md5": "5ee52d932b1f52a2820d5be306e48012"
+          "name": "AtionGradle-1.0.0.jar",
+          "url": "AtionGradle-1.0.0.jar",
+          "size": 39531,
+          "sha512": "8c330109ea644774df8464f6e06cfc9cc7065ee4d330b7b83857d2ca8143d546468060288c14b5dedb1ab88976222ec1811c3c9a48d1d51705e2a5a08eeee73a",
+          "sha256": "ad84465921f37f7a82caba5b70a6d61ff5d3c2cc2af6339409ed1b95e3f2a7a1",
+          "sha1": "dacbaae91335fd680f4cd02492106ef602e164c2",
+          "md5": "1089b36ec8aee2946070fb42b84ea05c"
         }
       ]
     }
